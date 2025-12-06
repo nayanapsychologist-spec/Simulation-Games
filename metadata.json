@@ -1,0 +1,5 @@
+{
+  "name": "Learning Quest",
+  "description": "An interactive, AI-powered educational game platform featuring word searches, crosswords, memory matching, and quizzes. Progress through levels to master any topic.",
+  "requestFramePermissions": []
+}
